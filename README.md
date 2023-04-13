@@ -13,6 +13,8 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
+- 📫 How to reach me **eufanzky@gmail.com**
+
 - ⚡ Fun fact **I like cats and gaming a lot**
 
 <h3 align="left">Connect with me:</h3>
