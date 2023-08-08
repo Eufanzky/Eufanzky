@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Rick And Morty App**
-
 - 🌱 I’m currently learning **React, Data Bases, NodeJS**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 📫 How to reach me **eufanzky@gmail.com**
+
+- 📁 My Portfolio https://eufanzky.github.io/Portfolio/
 
 - ⚡ Fun fact **I like cats and gaming a lot**
 
