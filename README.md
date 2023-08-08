@@ -15,7 +15,7 @@
 
 - 📁 My Portfolio https://eufanzky.github.io/Portfolio/
 
-- ⚡ Fun fact **I like cats and gaming a lot**
+- ⚡ Fun fact **I like cats and gaming :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
