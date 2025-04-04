@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **eufanzky@gmail.com**
 
-- 📁 My Portfolio https://eufanzky.github.io/Portfolio/
+- 📁 My Portfolio https://eugenio-condori.netlify.app/
 
 - ⚡ Fun fact **I like 🐈 cats and gaming 🎮 :)**
 
