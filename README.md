@@ -59,6 +59,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eufanzky&show_icons=true&include_all_commits=true&hide_border=true&locale=en" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eufanzky&layout=compact&hide_border=true&langs_count=8&locale=en" alt="Top languages" /></p>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eufanzky&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eufanzky&theme=transparent" alt="Top languages" />
+</p>
 
